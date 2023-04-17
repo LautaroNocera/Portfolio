@@ -22,7 +22,7 @@ SQL (SSMS):
 
 - Covid Deaths - Vaccinated : Este proyecto lo realice con Datasets que encontre en Kaggle.com, el mismo lo trabaje en MSSQL, para obtener distintos Insights que me interesaban utilizando varias tecnicas de SQL como Joins, Ctes, Temp Tables, y luego lo visualice en Tableau. Dicha visualizacion se encuentra en mi perfil de Tableau.
 
-Nashville Housing Price SQL : Este proyecto lo realice con Datasets de una competencia de Kaggle.com, el trabajo lo realice en MSSQL, convirtiendo columnas, estandarizando el formato de las mismas, separando y uniendo columnas segun me interesara a mi para luego utilizar en la competencia de Kaggle algoritmos de ML como DecisionTree (sklearn) y RandomForest (sklearn) para tener un primer contacto con estos algoritmos, los cuales estoy estudiando actualmente.
+- Nashville Housing Price SQL : Este proyecto lo realice con Datasets de una competencia de Kaggle.com, el trabajo lo realice en MSSQL, convirtiendo columnas, estandarizando el formato de las mismas, separando y uniendo columnas segun me interesara a mi para luego utilizar en la competencia de Kaggle algoritmos de ML como DecisionTree (sklearn) y RandomForest (sklearn) para tener un primer contacto con estos algoritmos, los cuales estoy estudiando actualmente.
 
 Excel:
 
